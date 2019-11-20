@@ -12,6 +12,7 @@ metadata:
     fluxcd.io/tag.podinfod: semver:*
     fluxcd.io/tag.podinfo: semver:3.*
     fluxcd.io/tag.stefanprodan/podinfo: semver:3.*
+    fluxcd.io/tag.stefanprodan/podinfod: semver:3.*
 spec:
   strategy:
     rollingUpdate:
