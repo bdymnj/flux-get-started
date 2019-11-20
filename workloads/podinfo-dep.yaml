@@ -8,8 +8,9 @@ metadata:
     app: podinfo
   annotations:
     fluxcd.io/automated: "true"
-    fluxcd.io/tag.init: semver:*
+    fluxcd.io/tag.init: semver:3.*
     fluxcd.io/tag.podinfod: semver:*
+    fluxcd.io/tag.podinfo: semver:3.*
 spec:
   strategy:
     rollingUpdate:
