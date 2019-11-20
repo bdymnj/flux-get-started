@@ -1,0 +1,1 @@
+{"jobID":"4252e7f6-492c-bffb-60f0-2499351b188d","spec":{"type":"policy","cause":{"Message":"","User":"mjelle@hotmail.com"},"spec":{"demo:deployment/podinfo":{"add":{"tag.init":"semver:3.*","tag.podinfo":"semver:3.*"},"remove":{}}}},"result":null}
