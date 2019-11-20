@@ -1,0 +1,1 @@
+{"jobID":"d9bd8a1e-33ae-245e-c21d-754529dd7789","spec":{"type":"policy","cause":{"Message":"","User":"mjelle@hotmail.com"},"spec":{"demo:deployment/podinfo":{"add":{"tag.init":"semver:3.*","tag.stefanprodan/podinfod":"semver:3.*"},"remove":{}}}},"result":null}
