@@ -1,0 +1,1 @@
+{"jobID":"83fe45f9-7ca6-bf6d-8261-26ae16e90557","spec":{"type":"policy","cause":{"Message":"","User":"Martin Nyholm Jelle \u003cmjelle@hotmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
