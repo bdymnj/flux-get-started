@@ -1,0 +1,1 @@
+{"jobID":"ce6435fa-bdf5-1224-a63c-ad6eb876616d","spec":{"type":"policy","cause":{"Message":"","User":"Martin Nyholm Jelle \u003cmjelle@hotmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
