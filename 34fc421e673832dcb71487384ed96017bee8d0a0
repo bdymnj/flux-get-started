@@ -1,0 +1,1 @@
+{"jobID":"9d919378-566b-5224-57b9-3fa0b739b33c","spec":{"type":"policy","cause":{"Message":"","User":"Martin Nyholm Jelle \u003cmjelle@hotmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.init":"glob:alpine:3.10.1","tag.podinfod":"semver:3.*"},"remove":{}}}},"result":null}
