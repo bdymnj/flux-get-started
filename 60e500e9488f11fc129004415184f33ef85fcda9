@@ -1,0 +1,1 @@
+{"jobID":"6e3ac95a-3dd5-7c70-03b8-61b675a4dd8d","spec":{"type":"policy","cause":{"Message":"","User":"Martin Nyholm Jelle \u003cmjelle@hotmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.init":"semver:3.10.1","tag.podinfod":"semver:3.*"},"remove":{}}}},"result":null}
